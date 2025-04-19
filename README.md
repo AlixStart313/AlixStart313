@@ -82,16 +82,21 @@ I aim to keep impacting my community through innovative projects, accessible edu
 
 ## 📊 Estadísticas | GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlixStart313&layout=compact&theme=radical" alt="Top langs" />
-    </td>
-    <td align="center" style="padding-left: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=AlixStart313&show_icons=true&theme=radical" alt="GitHub stats" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlixStart313&layout=compact&theme=radical" alt="Top langs" />
+      </td>
+      <td align="center" valign="top" style="padding-left: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlixStart313&show_icons=true&theme=radical" alt="GitHub stats" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 
 ---
 
